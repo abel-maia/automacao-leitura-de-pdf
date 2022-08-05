@@ -13,7 +13,7 @@
  <h5>Antes de entendermos sobre o sistema em si, vamos entender o que eu fazia manualmente:
   <ol>
    <li>Eu tinha uma lista com mais de 500 Pdfs</li>
-   <img src="https://drive.google.com/file/d/1-phKsm_sxwTb7ss4t5EaAgrLovG6wl4w/preview" width="640" height="480"</img>
+   <img src="https://drive.google.com/file/d/1-phKsm_sxwTb7ss4t5EaAgrLovG6wl4w/preview"</img>
    <li>Eu abria cada um deles separadamente</li>
    <li>Eu pegava uma informação que tinha nele dava Ctrl+C</li>
    <li>Eu renomeava o Pdfs com o cod dele + o Ctrl+V</li>
