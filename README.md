@@ -21,4 +21,9 @@
    <li>E Então eu concluia 1 Pdf</li>
    <img src="https://lh3.googleusercontent.com/Ntbab8mYGjUQK2EQcPqhMOcNzcAJPqRgWEkAgsl7dSf4jsqbbL-nxhpvMYj7IPLidyOCmULUsN8aNpLx_NAuy2Od9uOuVxCgIFy5jSol9H_uexM_-oGic1H6E9Gwh0ZmHJQbqILol4c_QcWRn97MCsGr_gZSM0Y2km3gzt6Vbtt_9i5PhqJbMmC-cexqxeq7P3kBEG9c6h7nkmivnT3H-IKWpBkCHlhHr-a36dnZQnjfp36ywevbOaf3e1SDeYRcU39cSi_9YdcY_UM4HaXVy6yN17P5Mlnhm1IMHUjyvvIxOFwSVrzT5n8RFbPCzwtDhUH3Ptdzo7b8zgEoX1qg9DBdjshQy5jNRJ_LLS7FKyqfX9yhYqMIHM_c4TcvKnnqaBvtFfdqV7iqszSdRIHjV_PoLAakecqnzs-n0uw-DHA7VtI4aH3jAVzSzreL8oVTKAn2Ef_WGEONoD3_ku4Xm1OiIpJ04i1fby5Vh8XqMQmCFYZAZ25TU6QEcyYbsNSlqIjOciT7TRoY97PN6f-bSq1jlDlozYX-iudos91h7MxTiPgiKwWS-jOvTkW04iTTURCrS9ETWH7z4npZAE45-vm7YUdQ74-HJqy8OXcTvib1Gp8CgSgUJwQYZcc04RCjUADAQP_-eDvVqzxjeqEzQG3X1LVMod3HPBBB8tHkSAd6rxj6GWx0mjIaHohsIBHy1p7RxQKrM1v6X447GGekXkrsA5vDIRSaCOm5xCl8zmOJrat2aij07IPnMf1aGkR45BsJ901gf9_Hbatqvmf2rgGnClMJ4ZY=w469-h38-no?authuser=0">
   </ol>
- <h5>Dá pra ver que isso era muito trabalhoso
+ <h5>Dá pra ver que isso era muito trabalhoso, eu ficava horas ali. Agora sim podemos tentar entender o sistema:
+  <ol>
+   <li> O python abria o pdf
+   <li> Eu percebi que o pdf era dividido em várias tabela, então eu pedia pro python usar só a tabela que tinha a informação
+   <li> Eu pegava a informação da tabela e renomeava o arquivo
+  </ol>
