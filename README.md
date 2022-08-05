@@ -9,4 +9,12 @@
      <li>Tem muitas bibliotecas para me ajudar.</li> 
      <li>A empresa onde eu trabalho aprova o python.</li> 
    </ol>
-<h2>O sistema
+<h2>Como funciona o sitema?
+ <h5>Antes de entendermos sobre o sistema em si, vamos entender o que eu fazia manualmente:
+  <ol>
+   <li>Eu tinha uma lista com mais de 500 Pdfs<\li>
+   <li>Eu abria cada um deles separadamente<\li>
+   <li>Eu pegava uma informação que tinha nele dava Ctrl+C<\li>
+   <li>Eu renomeava o Pdfs com o cod dele + o Ctrl+V<\li>
+   <li>E Então eu concluia 1 Pdf<\li>
+  </ol>
